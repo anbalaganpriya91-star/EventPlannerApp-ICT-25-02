@@ -1,8 +1,8 @@
 # Event Planner App
 
-**Name:** <Your Full Name>
-**Index No:** <Your Index Number>
-**Module:** Mobile Application Development (K72T001M15)
+Name:<Anbalagan bathmapriya>
+Index No: <JF/ICT/25/02>
+Module: Mobile Application Development (K72T001M15)
 
 ## Description
 Event Planner is a mobile app built with React Native (Expo) that helps a user create, organize and be reminded of events. All data is stored on the device, so it works offline.
@@ -52,7 +52,8 @@ src/utils/dateUtils.js      # Date and time helpers
 ## Screenshots
 | Event list | Add event | Search | Reminder |
 |---|---|---|---|
-| ![List](screenshots/list.png) | ![Add](screenshots/add.png) | ![Search](screenshots/search.png) | ![Reminder](screenshots/reminder.png) |
+| ![List](screenshots/list.jpeg) | 
+![Add](screenshots/add.jpeg) | ![Search](screenshots/search.jpeg) | ![Edit](screenshots/reminder.jpeg) |
 
 ## Testing
 | Test | Expected result | Result |
